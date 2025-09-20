@@ -3,11 +3,8 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/F23ARI42/Unbeatable-AI-TicTacToe">
+    <a href="https://github.com/F23ARI42/TicTacToe-AI-Agent">
         <img src="https://img.shields.io/badge/Project%20Repo-View%20Code-blue.svg?style=for-the-badge&logo=github" height="30" alt="GitHub Repository">
-    </a>
-    <a href="https://your-live-demo-link.com">
-        <img src="https://img.shields.io/badge/Live%20Demo-Play%20Now-green.svg?style=for-the-badge&logo=vercel" height="30" alt="Live Demo">
     </a>
     <a href="mailto:shaikhawais33358@gmail.com">
         <img src="https://img.shields.io/badge/Contact%20Me-white.svg?style=for-the-badge&logo=gmail" height="30" alt="Email">
