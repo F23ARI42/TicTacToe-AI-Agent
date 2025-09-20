@@ -14,7 +14,7 @@
 ---
 
 ## 🔍 Overview
-I’m **Muhammad Awais Shaikh**, and this is my **Unbeatable AI Tic-Tac-Toe Agent**. This project is a perfect example of applying intelligent algorithms to create an impactful software solution. The AI, powered by the **Minimax Algorithm**, is designed to be an opponent that **never loses**. It's a great demonstration of game theory and search algorithms in a fun, interactive way.
+I’m **Muhammad Awais Shaikh**, and this is my **AI Tic-Tac-Toe Agent**. This project is a perfect example of applying intelligent algorithms to create an impactful software solution. The AI, powered by the **Minimax Algorithm**, is designed to be an opponent that **never loses**. It's a great demonstration of game theory and search algorithms in a fun, interactive way.
 
 ---
 
