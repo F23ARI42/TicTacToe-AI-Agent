@@ -49,10 +49,10 @@ The AI's strategy is based on evaluating all possible moves to find the optimal 
 <details open>
   <summary><h2>📌 Pinned Projects</h2></summary>
   <a href="https://github.com/F23ARI42/TicTacToe-AI-Agent/blob/main/AI-Tic-Tac-Toe/play.py">
-    <img width="310" src="https://github-readme-stats.vercel.app/api/pin/?username=F23ARI42&repo=Unbeatable-AI-TicTacToe-CLI&theme=omni" alt="CLI Version">
+    <img width="310" src="https://github-readme-stats.vercel.app/api/pin/?username=F23ARI42&repo=Tic-Tac-Toe/play.py-CLI&theme=omni" alt="CLI Version">
   </a>
-  <a href="https://github.com/F23ARI42/Unbeatable-AI-TicTacToe-Web">
-    <img width="310" src="https://github-readme-stats.vercel.app/api/pin/?username=F23ARI42&repo=Unbeatable-AI-TicTacToe-Web&theme=omni" alt="Web Version">
+  <a href="https://github.com/F23ARI42/TicTacToe-AI-Agent/blob/main/AI-Tic-Tac-Toe/index.html">
+    <img width="310" src="https://github-readme-stats.vercel.app/api/pin/?username=F23ARI42&repo=AI-Tic-Tac-Toe/index.html-Web&theme=omni" alt="Web Version">
   </a>
 </details>
 
