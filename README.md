@@ -6,7 +6,7 @@
     <a href="https://github.com/F23ARI42/TicTacToe-AI-Agent">
         <img src="https://img.shields.io/badge/Project%20Repo-View%20Code-blue.svg?style=for-the-badge&logo=github" height="30" alt="GitHub Repository">
     </a>
-    <a href="mailto:shaikhawais33358@gmail.com">
+    <a href="mailto:shaikhawais33358@gmail.com and zainnadeem194@gmail.com">
         <img src="https://img.shields.io/badge/Contact%20Me-white.svg?style=for-the-badge&logo=gmail" height="30" alt="Email">
     </a>
 </p>
@@ -14,7 +14,7 @@
 ---
 
 ## 🔍 Overview
-I’m **Muhammad Awais Shaikh**, and this is my **AI Tic-Tac-Toe Agent**. This project is a perfect example of applying intelligent algorithms to create an impactful software solution. The AI, powered by the **Minimax Algorithm**, is designed to be an opponent that **never loses**. It's a great demonstration of game theory and search algorithms in a fun, interactive way.
+I’m **Muhammad Awais Shaikh**, and  **Zain Nadeem** this is our **AI Tic-Tac-Toe Agent**. This project is a perfect example of applying intelligent algorithms to create an impactful software solution. The AI, powered by the **Minimax Algorithm**, is designed to be an opponent that **never loses**. It's a great demonstration of game theory and search algorithms in a fun, interactive way.
 
 ---
 
